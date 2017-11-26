@@ -3,11 +3,11 @@ $fn=36;
 rail_height=20; //2020 rail
 slot_width=6;
 notch_depth=1.5;
-rail_screw_diameter=5.2; //M5 + margin
+rail_screw_diameter=5.3; //M5 + margin
 
 nut_diameter=22;
-axle_hole = 10.2; //Just 8mm axle, but nut has 10mm collar, some margin for it.
-nut_screw_diameter=3.2; //M3 + margin
+axle_hole = 10.4; //Just 8mm axle, but nut has 10mm collar, some margin for it.
+nut_screw_diameter=3.3; //M3 + margin
 nut_screw_distance=16;
 
 slot_nut_length=10;
