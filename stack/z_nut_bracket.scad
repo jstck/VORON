@@ -1,3 +1,8 @@
+//3D printer z-nut bracket for 2020 extrusion
+//2017, John Stäck (john@stack.se)
+//Licensed under Creative Commons Attribution Share-Alike (CC BY-SA 3.0)
+
+
 $fn=36;
 
 rail_height=20; //2020 rail
